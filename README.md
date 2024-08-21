@@ -1,6 +1,12 @@
 # Maquina-Expendedora
 Maquina expendedora con respecto a la materia de "Técnicas de Programacion", aqui el codigo: 
 
+
+
+
+
+
+
 using System;
 using System.Collections.Generic;
 
